@@ -6,7 +6,7 @@ export default defineConfig({
   manifest: {
       browser_specific_settings: {
           gecko: {
-              id: "@mesalilac.steam-to-fitgirl"
+              id: "@mesalilac.steam-fitgirl"
           }
       }
   }
