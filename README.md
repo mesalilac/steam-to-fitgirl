@@ -1,3 +1,7 @@
-# WXT + SolidJS
+# steam to FitGirl 
+adds a button to view steam games on [fitgirl-repacks.site](https://fitgirl-repacks.site)
 
-This template should help get you started developing with SolidJS in WXT.
+## Screenshots
+
+![steam store page](./screenshots/Screenshot.png)
+![FitGirl page](./screenshots/Screenshot2.png)
